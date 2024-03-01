@@ -40,7 +40,8 @@
 
 
 #body1{
-    border: solid black;
+    border: solid white 1px;
+    border-radius: 20px;
     width: 900px ;
     height: 450px;
     margin-left: 25%;
@@ -51,7 +52,8 @@
 }
 #word{
     margin-top: 30%;
-    justify-content: center;
+    
+
     
 }
 
@@ -68,7 +70,8 @@ margin-top: 0%;
 
 }
 #body2{
-    border: solid black;
+    border: solid white 1px;
+    border-radius: 20px;
     width: 900px ;
     height: 350px;
     margin-left: 25%;
@@ -83,7 +86,8 @@ margin-top: 0%;
 }
 
 #body3{
-    border: solid black;
+    border: solid white 1px;
+    border-radius: 20px;
     width: 900px ;
     height: 320px;
     margin-left: 25%;
@@ -97,7 +101,8 @@ margin-top: 0%;
 }
 
 #body4{
-    border: solid black 1px;
+    border: solid white 1px;
+    border-radius: 20px;
     width: 900px ;
     height: 320px;
     margin-left: 25%;
@@ -110,7 +115,8 @@ margin-top: 0%;
 }
 
 #body5{
-    border: solid black 1px;
+    border: solid white 1px;
+    border-radius: 20px;
     width: 900px ;
     height: 280px;
     margin-left: 25%;
