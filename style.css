@@ -35,13 +35,22 @@
 
 }
 
+#h4{
+    color: white;
+    margin-left: 0%;
+    
+}
+.hr{
+    margin-left: 5%;
+}
+
 
 #container{
     border: solid black 1px;
     margin-right: 5%;
     margin-left: 10%;
     width: 1500px;
-    height: 3250px;
+    height: 3330px;
 
 }
 
@@ -258,6 +267,5 @@ font-size: 25px;
     background-color: black;
     color: white;
     margin-right: 20%;
-
 
 }
